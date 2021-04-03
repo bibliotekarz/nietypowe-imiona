@@ -12,7 +12,7 @@ with urllib.request.urlopen('https://api.dane.gov.pl/media/resources/20210204/Wy
         if len(row[0]) > 1 and row[0][-1] !='A':
             baby.append(row[0])
 print(baby)
-print(f'Żeńskich imion kończących się na a jest {len(baby)}.')
+print(f'Żeńskich imion nie kończących się na a jest {len(baby)}.')
 time.sleep(5)
 
 

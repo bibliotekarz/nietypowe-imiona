@@ -1,8 +1,12 @@
-# nietypowe-imiona
-Agregator męskich imion kończących sie na A i damskich niekończących się na A na podstawie bazy PESEL.
+# nietypowe imiona polskie
+### Filtr męskich imion kończących się na A i damskich niekończących się na A na podstawie bazy PESEL lub Wikipedii.
 
-**Skrypt zadaje kłam** stwierdzeniom że kobiece imiona w polsce kończą się na A zaś męskie poza kilkoma wyjątkami nie kończą się na A.
-Lista imion jest generowana na podstawie danych z baz PESEL o osobach żyjących.
+#### W bazie PESEL 
 
-Żeńskich imion nie kończących się na a jest 8603.
-Męskich imion kończących się na a jest 1138.
+* Żeńskich imion nie kończących się literą 'a' jest **8603**.
+* Męskich imion kończących się literą 'a' jest **1138**.
+
+#### Na podstawie Wikipedii
+
+* Żeńskich imion nie kończących się literą 'a' jest **5**. 'Beatrycze', 'Mariam', 'Miriam', 'Noemi', 'Rut'
+* Męskich imion kończących się literą 'a' jest **6**. 'Barnaba', 'Bonawentura', 'Jarema', 'Jona', 'Kosma', 'Maria'
